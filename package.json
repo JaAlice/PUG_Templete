@@ -1,0 +1,16 @@
+{
+  "name": "apka_w_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "node-libcurl": "^2.3.3"
+  }
+}
